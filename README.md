@@ -4,7 +4,7 @@
 Database is represented by 2 tables with many-to-many relation, so it's 3 tables (because many to many is not possible without 3rd table)
 
 ## backend
-start the solution ShopWebApi, that would start up a server and database
+start the solution ShopWebApi, that would start up a server and database. Also it will open a swagger to test requests 
 
 ## frontend
 ### `npm install`

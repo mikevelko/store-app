@@ -1,0 +1,12 @@
+C:\Users\Mike\source\repos\ShopWebApi\Users.Core\bin\Debug\netcoreapp3.1\Users.Core.deps.json
+C:\Users\Mike\source\repos\ShopWebApi\Users.Core\bin\Debug\netcoreapp3.1\Users.Core.dll
+C:\Users\Mike\source\repos\ShopWebApi\Users.Core\bin\Debug\netcoreapp3.1\Users.Core.pdb
+C:\Users\Mike\source\repos\ShopWebApi\Users.Core\bin\Debug\netcoreapp3.1\Users.DB.dll
+C:\Users\Mike\source\repos\ShopWebApi\Users.Core\bin\Debug\netcoreapp3.1\Users.DB.pdb
+C:\Users\Mike\source\repos\ShopWebApi\Users.Core\obj\Debug\netcoreapp3.1\Users.Core.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\ShopWebApi\Users.Core\obj\Debug\netcoreapp3.1\Users.Core.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\ShopWebApi\Users.Core\obj\Debug\netcoreapp3.1\Users.Core.AssemblyInfo.cs
+C:\Users\Mike\source\repos\ShopWebApi\Users.Core\obj\Debug\netcoreapp3.1\Users.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\ShopWebApi\Users.Core\obj\Debug\netcoreapp3.1\Users.Core.csproj.CopyComplete
+C:\Users\Mike\source\repos\ShopWebApi\Users.Core\obj\Debug\netcoreapp3.1\Users.Core.dll
+C:\Users\Mike\source\repos\ShopWebApi\Users.Core\obj\Debug\netcoreapp3.1\Users.Core.pdb

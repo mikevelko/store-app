@@ -25,4 +25,4 @@ In section MyItems user could find all of his items with the information.
 ## Bugs 
 There is one bug with refreshing navigation component, after buying some thing it's not refreshing, but on the backend side user's money is updating
 
-And bug with comics API caused by returning 'opaque' values. So i decided to change API 
+And bug with comics API from task is caused by returning 'opaque' values. So i decided to change API 

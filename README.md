@@ -1,4 +1,4 @@
-# store-app
+# store-app with React and ASP .NET Core
 
 ## database
 Database is represented by 2 tables with many-to-many relation, so it's 3 tables (because many to many is not possible without 3rd table)
